@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "微軟正黑體修正", "Microsoft JhengHei", "微軟正黑體", "Arial";
+}
+
+.App {
+  display: grid;
+  margin: 5rem auto;
+  padding: 10rem;
+
+}
